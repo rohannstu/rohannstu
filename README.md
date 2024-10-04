@@ -40,7 +40,7 @@ tech enthusiast who thrives on solving complex programming challenges.</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohannstu&show_icons=true&locale=en&layout=compact" alt="rohannstu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohannstu&show_icons=true&locale=en" alt="rohannstu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohannstu&show_icons=true&locale=en" alt="rohannstu"/></p>
 
-<<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rohannstu&" alt="rohanntu" /></p>
+<!--<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rohannstu&" alt="rohanntu" /></p>-->
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohannstu&" alt="rohannstu" /></div>
