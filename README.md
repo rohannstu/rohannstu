@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there !
 
 <!--
 **rohannstu/rohannstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,9 @@ tech enthusiast who thrives on solving complex programming challenges.</h3>
 
 <!--- 👨‍💻 All of my projects are available at []()-->
 
-- 💬 Ask me about **Java, Springboot, OOP, DSA, C++ and more...**
+- 🌱  Ask me about **Java, Springboot, OOP, DSA, C++ and more...**
 
-- 📫 Contact me **rohansinha141635@gmail.com**
+- 🌱  Contact me **rohansinha141635@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -38,6 +38,9 @@ tech enthusiast who thrives on solving complex programming challenges.</h3>
 
 <!-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohannstu&show_icons=true&locale=en&layout=compact" alt="Rohan Sinha" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohannstu&show_icons=true&locale=en&layout=compact" alt="rohannstu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohannstu&show_icons=true&locale=en" alt="Rohan Sinha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohannstu&show_icons=true&locale=en" alt="rohannstu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohannstut&" alt="rohanntu" /></p>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohannstu&" alt="rohannstu" /></div>
